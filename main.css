@@ -33,9 +33,9 @@ img {
 }
 
 img.profile-pic {
-	height: 30%;
-	width: 30%;
-	object-fit: contain;
+	height: 20%;
+	width: 20%;
+	object-fit: cover;
 	border-radius: 50%;
 }
 
@@ -153,14 +153,14 @@ img.profile-pic {
     font-family: 'Lato', sans-serif;
     font-weight: 200;
     color: #000099;
-    font-size: 12px;
+    font-size: 16px;
 }
 
 .text-detail {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
     color: #000099;
-    font-size: 12px;
+    font-size: 16px;
 }
 
 .bottom {
